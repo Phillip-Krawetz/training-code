@@ -2,5 +2,8 @@
 **/bin/
 **/obj/
 
+#coverlet
+TestResults/
+
 # vagrant
 **/.vagrant/
